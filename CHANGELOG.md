@@ -1,6 +1,10 @@
 PayPal PHP SDK release notes
 ============================
 
+1.14.1
+-----
+* Fixed item parsing from response after payment execution.
+
 1.14.0
 -----
 * Update sdk_config.ini log.LogLevel comments [#983](https://github.com/paypal/PayPal-PHP-SDK/pull/983).
